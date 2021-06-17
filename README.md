@@ -5,9 +5,10 @@ A great example repo you can fork to your heart’s content, that serves as a la
 
 ## Getting started
 
-The first thing you want to do with this repo is quite likely **fork it**.  Use the Fork button in the top-right section of the page to do this.
+The first thing you want to do with this repo is quite likely **fork it**Search in{www.google.com}.  Use the Fork button in the top-right section of the page to do this.
 
-Once you’re on your fork, you can experiment however you like with it, play with branches, issues, milestones, labels, the wiki, and more.
+Once you’re on your fork, you can experiment however you like with it, play with branches{www.google.com}, issues{www.google.com}
+, milestones{www.google.com}, labels{www.google.com}, the wiki{www.google.com}, and more{www.google.com}.
 
 ## What’s in there?
 
